@@ -113,8 +113,8 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <pb facs="tcp:018730_0000_0FA80FE75A9B5720"/>
-                  <pb facs="tcp:018730_0001_0FA80FE814FE2540"/>
+                  <pb facs="unknown:018730_0000_0FA80FE75A9B5720"/>
+                  <pb facs="unknown:018730_0001_0FA80FE814FE2540"/>
                   <p>THE PHILADELPHIAD; OR, New Pictures of the City: Interſperſed with a candid review and diſplay of ſome firſt-rate Modern CHARACTERS OF BOTH SEXES: Delineated in a friendly and ſatirical manner, and containing ſketches of the materials that diſtinguiſh the following places, <abbr>viz.</abbr>
                      <list>
                         <item>COURT-HOUSE,</item>
@@ -149,7 +149,7 @@
                      <hi>PHILADELPHIA:</hi> Printed for the Editor by KLINE &amp; REYNOLDS, and ſold at their Printing-Office in Carter's-alley, and by all the Bookſellers in Town and Country. 1784.</p>
                </div>
                <div type="dedication">
-                  <pb facs="tcp:018730_0002_0FA80FE8D0B3F488"/>
+                  <pb facs="unknown:018730_0002_0FA80FE8D0B3F488"/>
                   <head>DEDICATION. To the great Men of Pennſylvania.</head>
                   <opener>
                      <salute>SIRS,</salute>
@@ -171,7 +171,7 @@
             </front>
             <body>
                <div type="poems">
-                  <pb facs="tcp:018730_0003_0FA80FE99A7E68E0"/>
+                  <pb facs="unknown:018730_0003_0FA80FE99A7E68E0"/>
                   <head>THE PHILADELPHIAD, &amp;c.</head>
                   <epigraph>
                      <q>
@@ -195,7 +195,7 @@
                         <l>Columbia's ſons are free as paſſing wind.</l>
                      </lg>
                      <lg>
-                        <pb n="6" facs="tcp:018730_0004_0FA80FED352D24D8"/>
+                        <pb n="6" facs="unknown:018730_0004_0FA80FED352D24D8"/>
                         <l>Time out of mind the poets us'd to ſtray</l>
                         <l>O'er groves and grotts to paint the rural day,</l>
                         <l>Rumag'd each mead and garden to complete</l>
@@ -221,7 +221,7 @@
                         <l>Where merit meets the due reward it claims,</l>
                         <l>Tho' envy dictates and tho' malice blames:—</l>
                         <l>
-                           <pb n="7" facs="tcp:018730_0005_0FA80FEECD48E8D0"/>
+                           <pb n="7" facs="unknown:018730_0005_0FA80FEECD48E8D0"/>
 Thou faireſt daughter of Columbia's train,</l>
                         <l>The great emporium of the weſtern plain;</l>
                         <l>Beſt ſeat of ſcience, friend to ev'ry art</l>
@@ -251,7 +251,7 @@ Thou faireſt daughter of Columbia's train,</l>
                         <l>'Tis ſtrange to ſee ſome <hi>cyphers</hi> ſit in ſtate,</l>
                         <l>To deal the law or hear the learn'd debate,</l>
                         <l>
-                           <pb n="8" facs="tcp:018730_0006_0FA80FEEEFF02BC8"/>
+                           <pb n="8" facs="unknown:018730_0006_0FA80FEEEFF02BC8"/>
 Decide on matters <hi>foreign to their ſkill,</hi>
                         </l>
                         <l>Led by dark precedent—more foreign ſtill:</l>
@@ -281,7 +281,7 @@ Decide on matters <hi>foreign to their ſkill,</hi>
                         <l>Where injur'd worth oft' finds the robbers doom</l>
                         <l>Drags the great chain or meets the dungeon's gloom,</l>
                         <l>
-                           <pb n="9" facs="tcp:018730_0007_0FA80FF049257610"/>
+                           <pb n="9" facs="unknown:018730_0007_0FA80FF049257610"/>
 Of friends bereft; to ſocial converſe loſt—</l>
                         <l>How very few are friends when wanted moſt,</l>
                         <l>Robb'd of the air and Heav'n-ſurrounding light,</l>
@@ -309,7 +309,7 @@ Of friends bereft; to ſocial converſe loſt—</l>
                         <l>Dark gloomy grates that half admit the light,</l>
                         <l>The clanking fetter horrid to the ſight,</l>
                         <l>
-                           <pb n="10" facs="tcp:018730_0008_0FA80FF06CB06248"/>
+                           <pb n="10" facs="unknown:018730_0008_0FA80FF06CB06248"/>
 The ſurly keeper, hard unpleaſing fare,—</l>
                         <l>All, all complete the meaſure of deſpair.</l>
                      </lg>
@@ -338,7 +338,7 @@ The ſurly keeper, hard unpleaſing fare,—</l>
                         <l>A merchant ſoon he ſtrutted like the reſt,</l>
                         <l>Spoke with the foremoſt, with the foremoſt dreſt;</l>
                         <l>
-                           <pb n="11" facs="tcp:018730_0009_0FA80FF11D0D39B0"/>
+                           <pb n="11" facs="unknown:018730_0009_0FA80FF11D0D39B0"/>
 Caſh made him bold and ignorance gave face</l>
                         <l>To follow what to others was diſgrace;</l>
                         <l>Grown fat at length and politic and great,</l>
@@ -368,7 +368,7 @@ Caſh made him bold and ignorance gave face</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="12" facs="tcp:018730_0010_0FA80FF1CE169528"/>
+                     <pb n="12" facs="unknown:018730_0010_0FA80FF1CE169528"/>
                      <head>COUNTRY CLOWN.</head>
                      <lg>
                         <l>Juſt from the plough obſerve the country clown</l>
@@ -395,7 +395,7 @@ Caſh made him bold and ignorance gave face</l>
                         <l>" Compar'd with theſe they'r negars at the moſt.</l>
                      </lg>
                      <lg>
-                        <pb n="13" facs="tcp:018730_0011_0FA80FF295DD32D0"/>
+                        <pb n="13" facs="unknown:018730_0011_0FA80FF295DD32D0"/>
                         <l>Poor ſimple ſoul! go tend the village team,</l>
                         <l>Keep from the city and ſecure thy ſame.</l>
                         <l>Beneath theſe cloths the tempting female wears,</l>
@@ -423,7 +423,7 @@ Caſh made him bold and ignorance gave face</l>
                         <l>Soft 'roſe the tear, the tender ſigh was heard,</l>
                         <l>And charm'd ſpectators thank'd the pleaſing bard,</l>
                         <l>
-                           <pb n="14" facs="tcp:018730_0012_0FA80FF35CB9D608"/>
+                           <pb n="14" facs="unknown:018730_0012_0FA80FF35CB9D608"/>
 Each learn'd a leſſon from the poets art</l>
                         <l>And actors ſkill that dignifi'd the heart,</l>
                         <l>While ſiſter muſes ſtruck with moving ire</l>
@@ -453,7 +453,7 @@ Each learn'd a leſſon from the poets art</l>
                            <hi>Alonzo</hi> doubts while <hi>Zanga</hi> aids the thought,</l>
                         <l>And <hi>Richard</hi> trembles tho' he bravely ſought;</l>
                         <l>
-                           <pb n="15" facs="tcp:018730_0013_0FA80FF4631523E0"/>
+                           <pb n="15" facs="unknown:018730_0013_0FA80FF4631523E0"/>
 The mighty <hi>Brutus</hi> wields the Roman ſteel,</l>
                         <l>See <hi>Caeſar</hi> fall! the world's great monarch reel;</l>
                         <l>Poor <hi>Barnwell</hi> dies by <hi>Millwood's</hi> tempting art,</l>
@@ -480,7 +480,7 @@ The mighty <hi>Brutus</hi> wields the Roman ſteel,</l>
                               <hi>Thoſe names are familiar with every lover of the Dram to whom they need no explanation here; and thoſe who are not its admirers will not trou<g ref="char:EOLhyphen"/>ble themſelves about one.</hi>
                            </note> Sir <hi>Peter</hi> and his honor ſteal.—</l>
                         <l>
-                           <pb n="16" facs="tcp:018730_0014_0FA80FF4D82C1858"/>
+                           <pb n="16" facs="unknown:018730_0014_0FA80FF4D82C1858"/>
 But oh! 'tis done—theſe pleaſing ſcenes are fled</l>
                         <l>And ſocial, lib'ral, ſentiment is dead;</l>
                         <l>Theſe tender ſtrokes oft' painted on the ſtage,</l>
@@ -509,7 +509,7 @@ But oh! 'tis done—theſe pleaſing ſcenes are fled</l>
                      <l>But <hi>Simeon Steady</hi> muſt make me a bride—</l>
                      <l>O La! to have the ſtatue by my ſide!—</l>
                      <l>
-                        <pb n="17" facs="tcp:018730_0015_0FA80FF8F14EFC60"/>
+                        <pb n="17" facs="unknown:018730_0015_0FA80FF8F14EFC60"/>
 I ſwear <hi>aunt Rachel</hi> that I'd rather die</l>
                      <l>A maid at ſixty than beſide him lie,—</l>
                      <l>Tho' daddy ſays he has a world of ſenſe,</l>
@@ -533,7 +533,7 @@ I ſwear <hi>aunt Rachel</hi> that I'd rather die</l>
                      <l>But contradict him in his ſteady ways?</l>
                      <l>" <hi>Friend</hi> thee is wrong", or "knows thee what thee ſays?"</l>
                      <l>
-                        <pb n="18" facs="tcp:018730_0016_0FA80FFA0D1CAC98"/>
+                        <pb n="18" facs="unknown:018730_0016_0FA80FFA0D1CAC98"/>
 Yet there are ſome whoſe views are unconfin'd,</l>
                      <l>Who ſcorn the bigot principle of mind,</l>
                      <l>Who ſee religion in its proper view,</l>
@@ -563,7 +563,7 @@ Yet there are ſome whoſe views are unconfin'd,</l>
                         <l>Of tip-top folks that here are thought the beſt.</l>
                      </lg>
                      <lg>
-                        <pb n="19" facs="tcp:018730_0017_0FA80FFCA775E9D8"/>
+                        <pb n="19" facs="unknown:018730_0017_0FA80FFCA775E9D8"/>
                         <l>Hail! ſacred drug! thou cure for ev'ry pain,</l>
                         <l>To fooliſh man both antidote and bane;</l>
                         <l>Life-giving noſtrum, death-diſpenſing rod,</l>
@@ -593,7 +593,7 @@ Yet there are ſome whoſe views are unconfin'd,</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="20" facs="tcp:018730_0018_0FA80FFD42E8D7B0"/>
+                     <pb n="20" facs="unknown:018730_0018_0FA80FFD42E8D7B0"/>
                      <head>A CHARACTER<note n="*" place="bottom">We ſuppoſe the author means a certain per<g ref="char:EOLhyphen"/>ſon who was characteriſed in the Freeman Journal, March 17, 1784, under the head of t<gap reason="illegible: indecipherable" extent="2 letters">
                               <desc>••</desc>
                            </gap> POLITICAL CRITIC</note> or a Portrait of the young Haberdaſher.</head>
@@ -615,7 +615,7 @@ Yet there are ſome whoſe views are unconfin'd,</l>
                      <l>Boaſtful he counts his dirty low amours,</l>
                      <l>His grovling ſpirit's pleas'd with common wh-</l>
                      <l>
-                        <pb n="21" facs="tcp:018730_0019_0FA80FFE18E85BA8"/>
+                        <pb n="21" facs="unknown:018730_0019_0FA80FFE18E85BA8"/>
 A poor deluded female of the ſtreet</l>
                      <l>To him is pleaſing and to him is ſweet:</l>
                      <l>To finiſh all and make the picture known,</l>
@@ -645,7 +645,7 @@ A poor deluded female of the ſtreet</l>
                         <l>His ſad dark vigils nightly here to keep,</l>
                         <l>Where dire compunction robs the wretch of ſleep;</l>
                         <l>
-                           <pb n="22" facs="tcp:018730_0020_0FA80FFEA2D9B8F0"/>
+                           <pb n="22" facs="unknown:018730_0020_0FA80FFEA2D9B8F0"/>
 Deluſive joys betray his tender heart,</l>
                         <l>Enſnar'd, bewilder'd by the wanton's art;</l>
                         <l>The leg half-naked and the breaſt quite bare,</l>
@@ -673,7 +673,7 @@ Deluſive joys betray his tender heart,</l>
                         <l>Or ſpecious preſents ſeeming fair and kind,</l>
                         <l>She ready makes to win the thoughtleſs mind,</l>
                         <l>
-                           <pb n="23" facs="tcp:018730_0021_0FA80FFF61C1C8E0"/>
+                           <pb n="23" facs="unknown:018730_0021_0FA80FFF61C1C8E0"/>
 Talks in one breath of miniſter and wh-r-,</l>
                         <l>Of young debauchers and of famiſht poor,</l>
                         <l>Quotes ſcripture ſcraps to ſhew her orthodox,</l>
@@ -705,7 +705,7 @@ Talks in one breath of miniſter and wh-r-,</l>
                         <l>Or through old <hi>Cromac</hi> ſought the colar ſhade,</l>
                         <l>Where aged oaks their verdant branches ſpread,</l>
                         <l>
-                           <pb n="24" facs="tcp:018730_0022_0FA8100019DF7190"/>
+                           <pb n="24" facs="unknown:018730_0022_0FA8100019DF7190"/>
 There <hi>Thomſon's</hi> page firſt taught me to admire</l>
                         <l>The rural ſcene, and ſtring the doubtful lyre,)</l>
                         <l>—Tall, graceful, elegant, deſigned to pleaſe,</l>
@@ -734,7 +734,7 @@ There <hi>Thomſon's</hi> page firſt taught me to admire</l>
                         <l>Sweet <hi>Mariana</hi> liſtened as he ſpoke,</l>
                         <l>And ſoon the ſigh of ſelf-conviction broke;</l>
                         <l>
-                           <pb n="25" facs="tcp:018730_0023_0FA810012DF3B3D0"/>
+                           <pb n="25" facs="unknown:018730_0023_0FA810012DF3B3D0"/>
 Her fault'ring breath could ſcarce the word compoſe,</l>
                         <l>While o'er her cheek the vermil ſymptom glows,</l>
                         <l>Her wounded heart with palpitations ſtrong,</l>
@@ -759,7 +759,7 @@ Her fault'ring breath could ſcarce the word compoſe,</l>
                         <l>It ſurely riſes from ſome noble ſource.</l>
                      </lg>
                      <lg>
-                        <pb n="26" facs="tcp:018730_0024_0FA81001ADB74710"/>
+                        <pb n="26" facs="unknown:018730_0024_0FA81001ADB74710"/>
                         <l>Young <hi>Edwin's</hi> fortune was but charms and ſenſe,</l>
                         <l>And <hi>Maria's</hi> father doated on his pence;</l>
                         <l>A wealthy match was all his heart deſir'd,</l>
@@ -785,7 +785,7 @@ Her fault'ring breath could ſcarce the word compoſe,</l>
                         <l>Fill'd the broad ſeat where juſtice ſhould prevail,</l>
                         <l>And hold aloft her ne'er-belying ſcale?—</l>
                         <l>
-                           <pb n="27" facs="tcp:018730_0025_0FA81005D98589F0"/>
+                           <pb n="27" facs="unknown:018730_0025_0FA81005D98589F0"/>
 Doom'd to the gallows ſee the victim led,</l>
                         <l>While round the croud their tears unceaſing ſhed</l>
                         <l>The ſob of ſympathy in ev'ry breaſt,</l>
@@ -815,7 +815,7 @@ Doom'd to the gallows ſee the victim led,</l>
                         <l>She left his houſe and ſought a better fare,</l>
                         <l>Than that ſhe found beneath his feeleſs care.</l>
                         <l>
-                           <pb n="28" facs="tcp:018730_0026_0FA8100817DDE0E8"/>
+                           <pb n="28" facs="unknown:018730_0026_0FA8100817DDE0E8"/>
 Firſt to the city, by diſtraction led,</l>
                         <l>With heedleſs ſteps the luckleſs mourner ſped;</l>
                         <l>Here ſoon a noted matron mark'd the maid,</l>
@@ -841,7 +841,7 @@ Firſt to the city, by diſtraction led,</l>
                         <l>Yet if ſome youth ſhould aſk what bro't her there</l>
                         <l>The queſtion drew th' involuntary tear,</l>
                         <l>
-                           <pb n="29" facs="tcp:018730_0027_0FA8100998AA4138"/>
+                           <pb n="29" facs="unknown:018730_0027_0FA8100998AA4138"/>
 And keen rememb'rance ſwell'd her troubl'd breaſt;</l>
                         <l>But true repentance was a tranſient gueſt.</l>
                      </lg>
@@ -869,7 +869,7 @@ And keen rememb'rance ſwell'd her troubl'd breaſt;</l>
                         <l>" Then nothing pleas'd depriv'd of joys ſo dear;</l>
                         <l>" I fled my father and was flatter'd here."—</l>
                         <l>
-                           <pb n="30" facs="tcp:018730_0028_0FA81009DFDF2630"/>
+                           <pb n="30" facs="unknown:018730_0028_0FA81009DFDF2630"/>
 —" Oh! Heav'ns 'tis ſhe! my dear loſt ſiſ<g ref="char:EOLhyphen"/>ter ſee,</l>
                         <l>" That brother mention'd and that heir is me</l>
                         <l>" But leave this houſe where ſin and death doe dwell,</l>
@@ -898,7 +898,7 @@ And keen rememb'rance ſwell'd her troubl'd breaſt;</l>
                         <l>Great <hi>Swift</hi> the pride and terror of the world</l>
                         <l>Sunk to this ſtate, by madneſs he was hurl'd,</l>
                         <l>
-                           <pb n="31" facs="tcp:018730_0029_0FA8100AAEC18F08"/>
+                           <pb n="31" facs="unknown:018730_0029_0FA8100AAEC18F08"/>
 His daring flights were levell'd with the low,</l>
                         <l>Down to a moving ſpectacle of woe;</l>
                         <l>Then admiration ceas'd and pity came,</l>
@@ -925,7 +925,7 @@ His daring flights were levell'd with the low,</l>
                         <l>Strongly impreſs'd by ſome diſtreſſes paſt,</l>
                         <l>The only thoughts that haunt him to the laſt—</l>
                         <l>
-                           <pb n="32" facs="tcp:018730_0030_0FA8100B631B1F20"/>
+                           <pb n="32" facs="unknown:018730_0030_0FA8100B631B1F20"/>
 Then he complains—ſcarce thinks about his fate—</l>
                         <l>Sometimes he's happy in this mournful ſtate,</l>
                         <l>Counts o'er his lands, his houſes, fortunes, friends</l>
@@ -949,7 +949,7 @@ Then he complains—ſcarce thinks about his fate—</l>
                         <l>With hands enclaſpt and low dejected eye</l>
                         <l>Speechleſs ſhe ſits and vents the riſing ſigh;</l>
                         <l>
-                           <pb n="33" facs="tcp:018730_0031_0FA8100C231E6310"/>
+                           <pb n="33" facs="unknown:018730_0031_0FA8100C231E6310"/>
 But ſeldom weeps; for grief when moſt ſevere</l>
                         <l>Is ne'er diſtinguiſh'd by the falling tear;</l>
                         <l>And ſilent hears her viſitors requeſt</l>
@@ -973,7 +973,7 @@ But ſeldom weeps; for grief when moſt ſevere</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="34" facs="tcp:018730_0032_0FA8100CDE7F6368"/>
+                     <pb n="34" facs="unknown:018730_0032_0FA8100CDE7F6368"/>
                      <head>IRISH BEAUTY.</head>
                      <l>An Iriſh beauty's not a thing ſo rare,</l>
                      <l>But Iriſh virtue often makes us ſtare;</l>
@@ -1004,7 +1004,7 @@ But ſeldom weeps; for grief when moſt ſevere</l>
                         <l>Obſerve the thing its gaudy pinions ſpread,</l>
                         <l>Pride in its eye with ſenſe inverted head;</l>
                         <l>
-                           <pb n="35" facs="tcp:018730_0033_0FA8100DF2FB5C70"/>
+                           <pb n="35" facs="unknown:018730_0033_0FA8100DF2FB5C70"/>
 Vain ſon of folly empty child of ſhow,</l>
                         <l>Proud of the blank diſtinction of a beau.</l>
                         <l>Now nicely dreſs'd, juſt from his barber looſe,</l>
@@ -1028,7 +1028,7 @@ Vain ſon of folly empty child of ſhow,</l>
                         <l>With three-cock'd hat and loop and button bright,</l>
                         <l>And open mouth to ſhew his teeth are white,</l>
                         <l>
-                           <pb n="36" facs="tcp:018730_0034_0FA8100E8256DC98"/>
+                           <pb n="36" facs="unknown:018730_0034_0FA8100E8256DC98"/>
 With ſpread umbrella—not to guard from rain,</l>
                         <l>Nor ſhade the ſun...but juſt complete his train,</l>
                         <l>For ſun or rain he ſeldom dare invade,</l>
@@ -1057,7 +1057,7 @@ With ſpread umbrella—not to guard from rain,</l>
                         <l>I vow the preſent is a ſtupid age;</l>
                         <l>We'll ſoon be Goths and Vandals without breed<g ref="char:EOLhyphen"/>ing—</l>
                         <l>
-                           <pb n="37" facs="tcp:018730_0035_0FA810144D0BDBE8"/>
+                           <pb n="37" facs="unknown:018730_0035_0FA810144D0BDBE8"/>
 What! quit the <hi>ton</hi> and follow muſty reading!</l>
                         <l>No, dam'me, no! we lads of ſpirit live</l>
                         <l>In all the joys which art and faſhion give.</l>
@@ -1081,7 +1081,7 @@ What! quit the <hi>ton</hi> and follow muſty reading!</l>
                      <l>" Come ſtrike my lad, and ſhew your neat diſ<g ref="char:EOLhyphen"/>guiſe,</l>
                      <l>" What—finer than our Captain! damn your eyes!"</l>
                      <l>
-                        <pb n="38" facs="tcp:018730_0036_0FA81017067E7DA8"/>
+                        <pb n="38" facs="unknown:018730_0036_0FA81017067E7DA8"/>
                         <hi>Jack</hi> trembling ſtood and wonder'd what I meant,</l>
                      <l>Pray, d to the pope and then invok'd each fair.</l>
                      <l>But all in vain, for <hi>Tom</hi> muſt have his <hi>bout,</hi>
@@ -1106,7 +1106,7 @@ What! quit the <hi>ton</hi> and follow muſty reading!</l>
                      <l>Than 'twould to get you learning from the ſchools.</l>
                   </div>
                   <div type="poem">
-                     <pb n="39" facs="tcp:018730_0037_0FA8101828893E38"/>
+                     <pb n="39" facs="unknown:018730_0037_0FA8101828893E38"/>
                      <head>THE SON OF NEPTUNE.</head>
                      <l>Worth in whatever ſphere, ſhould have a nitch,</l>
                      <l>Altho' 'tis ſeldom gain'd but by the rich,</l>
@@ -1134,7 +1134,7 @@ What! quit the <hi>ton</hi> and follow muſty reading!</l>
                         <l>Smart politicians wrangling here are ſeen,</l>
                         <l>Condemning J<hi>effries</hi> or indulging ſpleen,</l>
                         <l>
-                           <pb n="40" facs="tcp:018730_0038_0FA81018D8AE09F8"/>
+                           <pb n="40" facs="unknown:018730_0038_0FA81018D8AE09F8"/>
 Reproving Congreſs or amending laws,</l>
                         <l>Still fond to find out blemiſhes and flaws;</l>
                         <l>Here harmleſs <hi>ſentimental-mongers</hi> join</l>
@@ -1163,7 +1163,7 @@ Reproving Congreſs or amending laws,</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="41" facs="tcp:018730_0039_0FA810199FB971D8"/>
+                     <pb n="41" facs="unknown:018730_0039_0FA810199FB971D8"/>
                      <head>LAWYER LEWD-IS.</head>
                      <l>A man unprincipl'd in virtues ſchool,</l>
                      <l>That acts iniquity as if by rule;</l>
@@ -1189,7 +1189,7 @@ Reproving Congreſs or amending laws,</l>
                      <l>Leaſt you ſhould think miſanthrophy is ſeen,</l>
                      <l>Or that I write thro' envy or the ſpleen,</l>
                      <l>
-                        <pb n="42" facs="tcp:018730_0040_0FA8101A5BDF8750"/>
+                        <pb n="42" facs="unknown:018730_0040_0FA8101A5BDF8750"/>
 Or deal out ſatire with a wanton hand,</l>
                      <l>On thoſe that ſofter touches ſhould command;</l>
                      <l>I now produce a <hi>character</hi> to view,</l>
@@ -1217,7 +1217,7 @@ Or deal out ſatire with a wanton hand,</l>
                      <l>Such is the man I freely now commend.</l>
                   </div>
                   <div type="poem">
-                     <pb n="43" facs="tcp:018730_0041_0FA8101B271FAFA0"/>
+                     <pb n="43" facs="unknown:018730_0041_0FA8101B271FAFA0"/>
                      <head>THE EMIGRANT.</head>
                      <lg>
                         <l>See the lone emigrant juſt come on ſhore,</l>
@@ -1246,7 +1246,7 @@ Or deal out ſatire with a wanton hand,</l>
                         <l>And wiſh him ſafely to his deſtin'd land.</l>
                      </lg>
                      <lg>
-                        <pb n="44" facs="tcp:018730_0042_0FA8101BE446AAB8"/>
+                        <pb n="44" facs="unknown:018730_0042_0FA8101BE446AAB8"/>
                         <l>Scarce had the prow its canvaſs pinions ſpread</l>
                         <l>When dizzy ſickneſs ſeiz'd his giddy head,</l>
                         <l>Dim grows the land, the ſurging billows roar,</l>
@@ -1273,7 +1273,7 @@ Or deal out ſatire with a wanton hand,</l>
                         <l>What friendſhip dictates freely here I write,</l>
                         <l>No praiſes deal nor cenſures throw through ſpite</l>
                         <l>
-                           <pb n="45" facs="tcp:018730_0043_0FA8101CF94E0F28"/>
+                           <pb n="45" facs="unknown:018730_0043_0FA8101CF94E0F28"/>
 Thy nicer feelings, nicely too refin'd,</l>
                         <l>Needs not the grov'ling principle of mind,</l>
                         <l>And modeſt worth within thy breaſt conceal'd,</l>
@@ -1303,7 +1303,7 @@ Thy nicer feelings, nicely too refin'd,</l>
                      <l>When Britiſh politicks ran furious high,</l>
                      <l>The daſtard ſons of ſlav'ry caſt an eye—</l>
                      <l>
-                        <pb n="46" facs="tcp:018730_0044_0FA8101F27BDCC30"/>
+                        <pb n="46" facs="unknown:018730_0044_0FA8101F27BDCC30"/>
 A blaſting eye!—on infant freedom's cauſe,</l>
                      <l>And ſecret ſought the tyrant's mean applauſe:</l>
                      <l>Thoſe ſecret enemies were worſt of all,</l>
@@ -1333,7 +1333,7 @@ A blaſting eye!—on infant freedom's cauſe,</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="47" facs="tcp:018730_0045_0FA8101FE8E4D770"/>
+                     <pb n="47" facs="unknown:018730_0045_0FA8101FE8E4D770"/>
                      <head>STATE HOUSE.</head>
                      <lg>
                         <l>'Tis fair that public characters ſhould be</l>
@@ -1358,7 +1358,7 @@ A blaſting eye!—on infant freedom's cauſe,</l>
                         <l>And deaf-ear'd R—with wonder cries, "what was't."</l>
                      </lg>
                      <lg>
-                        <pb n="48" facs="tcp:018730_0046_0FA8102484B53EF8"/>
+                        <pb n="48" facs="unknown:018730_0046_0FA8102484B53EF8"/>
                         <l>How very mean a thing may have ſeat,</l>
                         <l>To ſwell the minutes of ſome low debate,</l>
                         <l>While conſtituents think him quite profound</l>
@@ -1377,7 +1377,7 @@ A blaſting eye!—on infant freedom's cauſe,</l>
                         <l>But when the ſpeaker calls the yeas and neas,</l>
                         <l>He aſks what ſide his neighbour's judgment ſways,</l>
                         <l>
-                           <pb n="49" facs="tcp:018730_0047_0FA81025AFE1F328"/>
+                           <pb n="49" facs="unknown:018730_0047_0FA81025AFE1F328"/>
 So he inclines—but knows no reaſon why—</l>
                         <l>His friend advis'd him—and he can't deny.</l>
                         <l>Bright <hi>Tommy S—s</hi> when arguments run ſcarce,</l>
@@ -1399,7 +1399,7 @@ So he inclines—but knows no reaſon why—</l>
                         <l>" Rome, Sir, was great, 'till plays reduc'd her fame;</l>
                         <l>" Her modern ſons are nothing but a name,</l>
                         <l>
-                           <pb n="50" facs="tcp:018730_0048_0FA810266BA59D50"/>
+                           <pb n="50" facs="unknown:018730_0048_0FA810266BA59D50"/>
 " Miſled by luxury's alluring ſhine,</l>
                         <l>" They <hi>water'd plants</hi> profuſely <hi>with their wine</hi>"<note n="§" place="bottom">
                               <hi>This muſt certainly be a plagiary from Paddy Whack or Sir Terence O'Shaughneſſy. Wine may be turned into Vinegar, but I would be obliged to Mr. S.....if he would favor me with the chymi<g ref="char:EOLhyphen"/>cal analyſis for turning it into</hi> water.</note>
@@ -1426,7 +1426,7 @@ So he inclines—but knows no reaſon why—</l>
                      <l>For faith I pity ev'ry ſcribbler's lot.</l>
                   </div>
                   <div type="poem">
-                     <pb n="51" facs="tcp:018730_0049_0FA810271D535AD0"/>
+                     <pb n="51" facs="unknown:018730_0049_0FA810271D535AD0"/>
                      <head>LAWYER VANNBOAST.</head>
                      <l>This pert young blade of <hi>Quirk</hi> goes through the town,</l>
                      <l>With air and geſture as it were his own,</l>
@@ -1453,7 +1453,7 @@ So he inclines—but knows no reaſon why—</l>
                      <l>For who could doubt his wond'rous ſkill to cure,</l>
                      <l>Who <hi>drives a Phaeton</hi> and preſcribes to poor?</l>
                      <l>
-                        <pb n="52" facs="tcp:018730_0050_0FA81027EC5A2FE0"/>
+                        <pb n="52" facs="unknown:018730_0050_0FA81027EC5A2FE0"/>
 If ſtudents dull are pinch'd to get degrees,</l>
                      <l>Why, Provoſt, Doctors, Maſters muſt have fees,</l>
                      <l>And then you'll get your grand diploma out—</l>
@@ -1479,7 +1479,7 @@ If ſtudents dull are pinch'd to get degrees,</l>
                      <l>Would ſcare e'en fraud and make his blood run cold."</l>
                   </div>
                   <div type="poem">
-                     <pb n="53" facs="tcp:018730_0051_0FA81028B4755A10"/>
+                     <pb n="53" facs="unknown:018730_0051_0FA81028B4755A10"/>
                      <head>CAPIAS F-NL-Y.</head>
                      <l>This man demands ſome miſcellaneous praiſe,</l>
                      <l>His name to publiſh and his worth to raiſe,</l>
@@ -1511,7 +1511,7 @@ If ſtudents dull are pinch'd to get degrees,</l>
                         <l>That <hi>Iriſh blunders</hi> are not notic'd there.</l>
                      </lg>
                      <lg>
-                        <pb n="54" facs="tcp:018730_0052_0FA8102B21F1B280"/>
+                        <pb n="54" facs="unknown:018730_0052_0FA8102B21F1B280"/>
                         <l>Enjoy the profits which preferment brings,</l>
                         <l>Tho' ſatire's bullets round thy office rings;</l>
                         <l>Laugh at the fools and act an upright part,</l>
@@ -1538,7 +1538,7 @@ If ſtudents dull are pinch'd to get degrees,</l>
                      <l>Patches and paints replac'd with daily care</l>
                      <l>Her fading features and her charms repair.</l>
                      <l>
-                        <pb n="55" facs="tcp:018730_0053_0FA8102BDAFA18F0"/>
+                        <pb n="55" facs="unknown:018730_0053_0FA8102BDAFA18F0"/>
 Not all thoſe charms could Tommy **** allure</l>
                      <l>For babbling fame had ſaid ſhe was a wh—</l>
                      <l>'Tis much the ſame, or whether right or wrong;</l>
@@ -1567,7 +1567,7 @@ Not all thoſe charms could Tommy **** allure</l>
                      <l>When I forget thy charms fair maid to ſing,</l>
                      <l>Be my tongue mute and winter blaſt the ſpring.</l>
                      <l>
-                        <pb n="56" facs="tcp:018730_0054_0FA8102C7685CB50"/>
+                        <pb n="56" facs="unknown:018730_0054_0FA8102C7685CB50"/>
 No lovlier nymph Columbia's plains adorn,</l>
                      <l>Pride of her ſex, beyond the wanton's ſcorn.</l>
                      <l>Wit without impudence, and ſenſe refin'd,</l>
@@ -1596,7 +1596,7 @@ No lovlier nymph Columbia's plains adorn,</l>
                         <l>Begin your canvaſs,—bluſter to the county,</l>
                         <l>And ſwear mechanics ſhould receive a bounty:</l>
                         <l>
-                           <pb n="57" facs="tcp:018730_0055_0FA8102D24C9D8C0"/>
+                           <pb n="57" facs="unknown:018730_0055_0FA8102D24C9D8C0"/>
 (A tradeſman's vote is equal to a lord's,</l>
                         <l>'Tis not the men or money, but their words.)</l>
                         <l>Promiſe to mend the laws and raiſe the ſtate,</l>
@@ -1618,7 +1618,7 @@ No lovlier nymph Columbia's plains adorn,</l>
                         <l>Mix'd with your own they'll paſs for your in<g ref="char:EOLhyphen"/>diting,</l>
                         <l>And conſtituents moſtly love good writing;</l>
                         <l>
-                           <pb n="58" facs="tcp:018730_0056_0FA8102DE732AEE8"/>
+                           <pb n="58" facs="unknown:018730_0056_0FA8102DE732AEE8"/>
 Hard words are beſt, for then they think you learn'd,</l>
                         <l>And wiſdom only is by learning earn'd;</l>
                         <l>'Tis true, the critics may detect your ſtile,</l>
@@ -1644,7 +1644,7 @@ Hard words are beſt, for then they think you learn'd,</l>
                         <l>And laſt, take care their ſpirits well to cheer</l>
                         <l>With grog and cakes and <hi>Reuben Haines's</hi> beer</l>
                         <l>
-                           <pb n="59" facs="tcp:018730_0057_0FA8102EDCB1CB70"/>
+                           <pb n="59" facs="unknown:018730_0057_0FA8102EDCB1CB70"/>
 Tho' cyder's cheapeſt,—but it wants the fire,</l>
                         <l>And <hi>grog</hi> or <hi>beer</hi> the voters beſt inſpire—</l>
                         <l>Now all is o'er, and tho' the toil was hard,</l>
@@ -1674,7 +1674,7 @@ Tho' cyder's cheapeſt,—but it wants the fire,</l>
                      <l>The muſe, <hi>Mecaeneas,</hi> eager ſtill for fame,</l>
                      <l>Adorns her page with thy immortal name,</l>
                      <l>
-                        <pb n="60" facs="tcp:018730_0058_0FA81033A6389F48"/>
+                        <pb n="60" facs="unknown:018730_0058_0FA81033A6389F48"/>
 Conſcious from thence her verſe ſhall never die,</l>
                      <l>Tho' malice blaſt and envy's tongue decry;</l>
                      <l>Fain would ſhe paint thy nobleneſs of ſoul,</l>
@@ -1701,7 +1701,7 @@ Conſcious from thence her verſe ſhall never die,</l>
                      <l>Diſtends the gold which Heav'n has kindly ſent.</l>
                      <l>His lib'ral hand oft' ſhews his good intent.</l>
                      <l>
-                        <pb n="61" facs="tcp:018730_0059_0FA81033DE9EA368"/>
+                        <pb n="61" facs="unknown:018730_0059_0FA81033DE9EA368"/>
 His native country where his youth he paſs'd,</l>
                      <l>Lives in his heart the foremoſt and the laſt;</l>
                      <l>Its wand'ring ſons partake his gen'rous aid,</l>
@@ -1732,7 +1732,7 @@ His native country where his youth he paſs'd,</l>
                         <l>Is in the ſober ſerious preaching way.</l>
                      </lg>
                      <lg>
-                        <pb n="62" facs="tcp:018730_0060_0FA8103647EA2368"/>
+                        <pb n="62" facs="unknown:018730_0060_0FA8103647EA2368"/>
                         <l>Young <hi>Bully Bragwell</hi> ſtruts among the reſt,</l>
                         <l>And <hi>Billy Button</hi> neat and finely dreſs'd;</l>
                         <l>Grave <hi>Adam Archly</hi> comes to read the news,</l>
@@ -1758,7 +1758,7 @@ His native country where his youth he paſs'd,</l>
                         </p>
                      </note>
                      <lg>
-                        <pb n="63" facs="tcp:018730_0061_0FA81037F96AE5F8"/>
+                        <pb n="63" facs="unknown:018730_0061_0FA81037F96AE5F8"/>
                         <l>Blank puppy <hi>John</hi> with trudging walk comes next,</l>
                         <l>His motto ignorance and vice his text;</l>
                         <l>No man with greater conſequence appears,</l>
@@ -1785,7 +1785,7 @@ His native country where his youth he paſs'd,</l>
                         <l>That <hi>Scotland</hi> borders on the banks of Tweed,</l>
                         <l>(Where <hi>Thomſon</hi> tun'd his tributary reed,)</l>
                         <l>
-                           <pb n="64" facs="tcp:018730_0062_0FA8103873578A18"/>
+                           <pb n="64" facs="unknown:018730_0062_0FA8103873578A18"/>
 That <hi>Paris</hi> is the gay Pariſian's boaſt,</l>
                         <l>And that their ways are frivolous at moſt—</l>
                         <l>Some other hints like theſe make up his wit.</l>
@@ -1814,7 +1814,7 @@ That <hi>Paris</hi> is the gay Pariſian's boaſt,</l>
                         </l>
                      </lg>
                      <lg>
-                        <pb n="65" facs="tcp:018730_0063_0FA81039283526E0"/>
+                        <pb n="65" facs="unknown:018730_0063_0FA81039283526E0"/>
                         <l>With oily tongue and ſober penſive pace,</l>
                         <l>To cloak a heart of knavery and diſgrace,</l>
                         <l>Comes in old <hi>Cheatwell,</hi> juſt with parſon's air,</l>
@@ -1845,7 +1845,7 @@ That <hi>Paris</hi> is the gay Pariſian's boaſt,</l>
                         <l>But yonder comes the friend of human kind,</l>
                         <l>And lib'ral thoughts employ his lib'ral mind,—</l>
                         <l>
-                           <pb n="66" facs="tcp:018730_0064_0FA81039EEEA3160"/>
+                           <pb n="66" facs="unknown:018730_0064_0FA81039EEEA3160"/>
 'Tis honeſt <hi>Dealwell,</hi> of unſullied fame,</l>
                         <l>Whoſe gold is nothing better than his name;</l>
                         <l>His word will buy what others ſpecie can't,</l>
@@ -1873,7 +1873,7 @@ That <hi>Paris</hi> is the gay Pariſian's boaſt,</l>
                         <l>Of toiling commerce, or with gen'rous zeal</l>
                         <l>Gave ſocial arts to raiſe the commonweal,</l>
                         <l>
-                           <pb n="67" facs="tcp:018730_0065_0FA8103AA5327600"/>
+                           <pb n="67" facs="unknown:018730_0065_0FA8103AA5327600"/>
 Swept o'er the world and bore their thunder round,</l>
                         <l>Till crouching Europe trembled at the ſound,</l>
                         <l>Great Neptune own'd their empire o'er the main</l>
@@ -1902,7 +1902,7 @@ Swept o'er the world and bore their thunder round,</l>
                         <l>Bows, ſcrapes and cringes are their fav'rite trait,</l>
                         <l>New buckles, canes and clothes for ever neat,</l>
                         <l>
-                           <pb n="68" facs="tcp:018730_0066_0FA8103B6B4750B0"/>
+                           <pb n="68" facs="unknown:018730_0066_0FA8103B6B4750B0"/>
 Fine powder'd heads, long ruffles ſweeping down,</l>
                         <l>The gaze and wonder of the country clown:</l>
                         <l>But yet this nation is for ſcience fam'd,</l>
@@ -1932,7 +1932,7 @@ Fine powder'd heads, long ruffles ſweeping down,</l>
                         <l>This tells us where the wine is cheap and good,</l>
                         <l>That where its both in bottles and in wood,</l>
                         <l>
-                           <pb n="69" facs="tcp:018730_0067_0FA8103C11854A60"/>
+                           <pb n="69" facs="unknown:018730_0067_0FA8103C11854A60"/>
 Here by that ſcrawl we ſee where bills are ſold,</l>
                         <l>There we're inform'd of perſons wanting gold,</l>
                         <l>Ships to be had and lodgings to be let,</l>
@@ -1957,7 +1957,7 @@ Here by that ſcrawl we ſee where bills are ſold,</l>
                      <l>Her handſome face is nothing when you hear,</l>
                      <l>With what diſguſt ſhe moſtly does appear:</l>
                      <l>
-                        <pb n="70" facs="tcp:018730_0068_0FA8103D0EFD99C8"/>
+                        <pb n="70" facs="unknown:018730_0068_0FA8103D0EFD99C8"/>
 She's always plum'd on what ſhe calls her birth,</l>
                      <l>Tells o'er the ſums her peddling father's worth,</l>
                      <l>Says that "us merchants <hi>daters</hi> ſhould be known</l>
@@ -1977,12 +1977,12 @@ She's always plum'd on what ſhe calls her birth,</l>
                   </div>
                </div>
                <div type="half_title">
-                  <pb facs="tcp:018730_0069_0FA8103DE9381FC0"/>
+                  <pb facs="unknown:018730_0069_0FA8103DE9381FC0"/>
                   <p>MISCELLANEOUS PIECES, BY <hi>Different Hands.</hi>
                   </p>
                </div>
                <div type="poems">
-                  <pb facs="tcp:018730_0070_0FA810440ACA44A0"/>
+                  <pb facs="unknown:018730_0070_0FA810440ACA44A0"/>
                   <head>MISCELLANEOUS PIECES.</head>
                   <div type="poem">
                      <head>INSTRUCTIONS to a PAINTER, when going to draw a full length Picture of the amiable Miſs A—H—.</head>
@@ -2015,7 +2015,7 @@ She's always plum'd on what ſhe calls her birth,</l>
                         <l>Studded round and ſet to charm?</l>
                      </lg>
                      <lg n="5">
-                        <pb n="78" facs="tcp:018730_0071_0FA8104523A72AB0"/>
+                        <pb n="78" facs="unknown:018730_0071_0FA8104523A72AB0"/>
                         <head>V</head>
                         <l>Haſt thou ſeen a pillar fair</l>
                         <l>Juſt in due proportion neat,</l>
@@ -2054,7 +2054,7 @@ She's always plum'd on what ſhe calls her birth,</l>
                         <l>Charms both fair and freſh to view.</l>
                      </lg>
                      <lg n="10">
-                        <pb n="79" facs="tcp:018730_0072_0FA81045DAE49520"/>
+                        <pb n="79" facs="unknown:018730_0072_0FA81045DAE49520"/>
                         <head>X</head>
                         <l>Next her eyes—but ah! what art</l>
                         <l>Can ſo much expreſſion paint?</l>
@@ -2091,7 +2091,7 @@ She's always plum'd on what ſhe calls her birth,</l>
                         <l>And hail ſweet pleaſing melancholy,</l>
                         <l>Attend the thoughtful ſwain;</l>
                         <l>
-                           <pb n="80" facs="tcp:018730_0073_0FA81046FB53D5F0"/>
+                           <pb n="80" facs="unknown:018730_0073_0FA81046FB53D5F0"/>
 Await his ſteps within the grove,</l>
                         <l>Or ſooth his heart or aid his love,</l>
                         <l>And raiſe his youthful ſtrain.</l>
@@ -2129,7 +2129,7 @@ Await his ſteps within the grove,</l>
                         <l>Where cluſt ring roſes thick are ſeen</l>
                         <l>To half immerſe the hive;</l>
                         <l>
-                           <pb n="81" facs="tcp:018730_0074_0FA810479165E738"/>
+                           <pb n="81" facs="unknown:018730_0074_0FA810479165E738"/>
 There let me ſit and hear them ſing,</l>
                         <l>Their ev'ning ditties, ſong of ſpring,</l>
                         <l>And carrols all alive:</l>
@@ -2163,7 +2163,7 @@ There let me ſit and hear them ſing,</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="82" facs="tcp:018730_0075_0FA81048230D34A0"/>
+                     <pb n="82" facs="unknown:018730_0075_0FA81048230D34A0"/>
                      <head>THE SHEPHERD'S DISTRACTION.</head>
                      <lg>
                         <l>Gentle ſhepherd come along,</l>
@@ -2192,7 +2192,7 @@ There let me ſit and hear them ſing,</l>
                         <l>
                            <hi>Delia's</hi> wedded—I am dead,</l>
                         <l>
-                           <pb n="83" facs="tcp:018730_0076_0FA8104A7B7A16E8"/>
+                           <pb n="83" facs="unknown:018730_0076_0FA8104A7B7A16E8"/>
 Dead to ev'ry charm on earth—</l>
                         <l>Ceaſe your gambols, ceaſe your mirth;</l>
                         <l>Weeping willow wave thy head,</l>
@@ -2215,12 +2215,12 @@ Dead to ev'ry charm on earth—</l>
          <text xml:lang="eng">
             <front>
                <div type="half_title">
-                  <pb facs="tcp:018730_0077_0FA8104B668CF520"/>
+                  <pb facs="unknown:018730_0077_0FA8104B668CF520"/>
                   <p>THE PHILADELPHIAD</p>
                   <p>VOL II.</p>
                </div>
                <div type="title_page">
-                  <pb facs="tcp:018730_0078_0FA8104BEE394080"/>
+                  <pb facs="unknown:018730_0078_0FA8104BEE394080"/>
                   <p>THE PHILADELPHIAD OR New Pictures of the City: Interſperſed with a candid Review and Diſplay of ſome firſt-rate Modern CHARACTERS OF BOTH SEXES: Delineated in a friendly and ſatirical Manner, and containing the following Articles.
 <list>
                         <item>ARTHUR SINCERE,</item>
@@ -2239,19 +2239,19 @@ Dead to ev'ry charm on earth—</l>
                      <hi>PHILADELPHIA:</hi> Printed for the Editor by KLINE &amp; REYNOLDS, and ſold at their Printing-Office, in Carter's-alley. MDCCLXXXIV.</p>
                </div>
                <div type="preface">
-                  <pb facs="tcp:018730_0079_0FA8104CAC6B0090"/>
+                  <pb facs="unknown:018730_0079_0FA8104CAC6B0090"/>
                   <head>PREFACE.</head>
                   <p>AS this work was undertaken with no evil motive, the author thinks it in<g ref="char:EOLhyphen"/>cumbent on him to obviate ſome imputati<g ref="char:EOLhyphen"/>ons, which he thinks he has been unjuſtly laid under.</p>
                   <p>Three perſons under the character of Gen<g ref="char:EOLhyphen"/>tlemen, went lately to the office of Meſſrs. Kline and Reynolds, and requeſted that they might be informed of the author of the Philadelphiad? Meſſrs. K &amp; R ſent for the author—the Gentlemen aſked him if he was not the author of the Philadelphiad?—he was anſwered in the affirmitive—They then ſaid that it was a ſhame for a Gentle<g ref="char:EOLhyphen"/>man of <hi>his profeſſion</hi> to have any thing a-do with ſuch a publication—the author ſaid, indeed he was very ſorry that ſeveral people had ſo truly merited the cenſures they re<g ref="char:EOLhyphen"/>ceived—But Mr—interrupts one of the gentlemen, you know that private cha<g ref="char:EOLhyphen"/>racters ſhould not be meddled with!—O d—n it, 'tis a ſhame by G—He was going on with this courtly dialect when the author aſked him if private vice was leſs cen<g ref="char:EOLhyphen"/>ſurable than public?—He had no argu<g ref="char:EOLhyphen"/>ment to confound this, and upon the author's
-<pb facs="tcp:018730_0080_0FA8104D6B49C980"/>
+<pb facs="unknown:018730_0080_0FA8104D6B49C980"/>
 telling him that he would have none of his impertinence, he ſeemed inclined to com<g ref="char:EOLhyphen"/>promiſe matters, and went ſo far as to inti<g ref="char:EOLhyphen"/>mate that he would furniſh the author with a ſum of money if he would contradict, in his next publication, circumſtances of cha<g ref="char:EOLhyphen"/>racters that the pointed out—The money was refuſed, and the characters ſhall ſtand as they are juſtly painted.—Our opi<g ref="char:EOLhyphen"/>nions may ſometimes be wrong, but our judgments ſhall never be perverted.</p>
                </div>
                <div type="dedication">
-                  <pb facs="tcp:018730_0081_0FA8104E278FEA18"/>
+                  <pb facs="unknown:018730_0081_0FA8104E278FEA18"/>
                   <head>DEDICATION. To the FAIR AMERICANS. Matrons, Mothers and Miſſes,</head>
                   <p>AMIDST the multipliciy of buſineſs which favour has heaped on me from time to time I have juſt ſnatched a moment—a moment that I could only devote to charms like yours—to requeſt that you will uſe your never-failing influence to in<g ref="char:EOLhyphen"/>duce your Fathers, Huſbands, Brothers and Sweethearts to peruſe the following ſheets, which are calculated for your entertainment as well as theirs—and for the information of the COMMONWEALTH in general.</p>
                   <p>The author had once given over the notion of continuing this work, but he found the calls of the public ſo importunate for the ſe<g ref="char:EOLhyphen"/>cond and third volumes, and the demand
-<pb facs="tcp:018730_0082_0FA8104EF3CE6BB0"/>
+<pb facs="unknown:018730_0082_0FA8104EF3CE6BB0"/>
 for them ſo extraordinary, that at their ſo<g ref="char:EOLhyphen"/>licitation he is willing to expoſe vice and contribute as much as in his power to their amuſement.</p>
                   <closer>I am, <salute>Ladies,</salute> With much reſpect, <signed>Your devoted Humble ſervant, THE AUTHOR</signed> 
                      <dateline>
@@ -2264,7 +2264,7 @@ for them ſo extraordinary, that at their ſo<g ref="char:EOLhyphen"/>licitation
             </front>
             <body>
                <div type="poems">
-                  <pb facs="tcp:018730_0083_0FA8104FA5A52178"/>
+                  <pb facs="unknown:018730_0083_0FA8104FA5A52178"/>
                   <head>THE PHILADELPHIAD.</head>
                   <div type="introductory_poem">
                      <lg>
@@ -2281,7 +2281,7 @@ for them ſo extraordinary, that at their ſo<g ref="char:EOLhyphen"/>licitation
                         <l>But why ſhould people bluſh at meeting here</l>
                         <l>The looks with which they ev'ry day appear?</l>
                         <l>
-                           <pb n="10" facs="tcp:018730_0084_0FA8105062ED2980"/>
+                           <pb n="10" facs="unknown:018730_0084_0FA8105062ED2980"/>
 Vice only gives the conſcious boſom ſmart,</l>
                         <l>For virtuous people lay it not to heart,</l>
                         <l>And all attempts when truth is not their aim</l>
@@ -2302,7 +2302,7 @@ Vice only gives the conſcious boſom ſmart,</l>
                      <l>He early led our banners up to ſame.</l>
                   </div>
                   <div type="poem">
-                     <pb n="11" facs="tcp:018730_0085_0FA8105162E205F0"/>
+                     <pb n="11" facs="unknown:018730_0085_0FA8105162E205F0"/>
                      <head>MISS KITTY CUT-A-DASH; Or the Arch-ſtreet Flirt.</head>
                      <lg>
                         <l>OBSERVE that foot, how nice the ſhoe it fits,</l>
@@ -2324,7 +2324,7 @@ Vice only gives the conſcious boſom ſmart,</l>
                         <l>Or with an air important through the ſhops,</l>
                         <l>She cheapens fans and talks with ruffled fops:</l>
                         <l>
-                           <pb n="12" facs="tcp:018730_0086_0FA81053C6FAA6D0"/>
+                           <pb n="12" facs="unknown:018730_0086_0FA81053C6FAA6D0"/>
 The young apprentice knows her tricks full well,</l>
                         <l>For toſſing goods without the hopes to ſell</l>
                         <l>And ſpruce young milliners do often curſe</l>
@@ -2347,7 +2347,7 @@ The young apprentice knows her tricks full well,</l>
                      <l>FRESH as the morn, as op'ning lillie fair,</l>
                      <l>And mild as gentle zephyrs fan the air,</l>
                      <l>
-                        <pb n="13" facs="tcp:018730_0087_0FA81054B20B5EF0"/>
+                        <pb n="13" facs="unknown:018730_0087_0FA81054B20B5EF0"/>
 A charming daughter of Apollo's train,</l>
                      <l>To ſing the beauties of the rural plain,<note n="‡" place="bottom">
                            <hi>Alluding to ſome verſes which ſhe wrote upon rural happineſs.</hi>
@@ -2373,7 +2373,7 @@ A charming daughter of Apollo's train,</l>
                      <l>Will honeſt hearts and huſband's true com<g ref="char:EOLhyphen"/>mand.</l>
                   </div>
                   <div type="poem">
-                     <pb n="14" facs="tcp:018730_0088_0FA810597AF80608"/>
+                     <pb n="14" facs="unknown:018730_0088_0FA810597AF80608"/>
                      <head>POLITICS.</head>
                      <l>WHEN man was man, and ſpoke his candid mind,</l>
                      <l>No deep laid politics was then deſigned,</l>
@@ -2398,7 +2398,7 @@ A charming daughter of Apollo's train,</l>
                      <l>Dark machinations cloak'd beneath its name</l>
                      <l>Some empty praiſe demand in place of fame,</l>
                      <l>
-                        <pb n="15" facs="tcp:018730_0089_0FA8105AB71F7B10"/>
+                        <pb n="15" facs="unknown:018730_0089_0FA8105AB71F7B10"/>
 To gloſs the crimes politically done,</l>
                      <l>Before to glaring turpitude they run.</l>
                   </div>
@@ -2418,7 +2418,7 @@ To gloſs the crimes politically done,</l>
                         <l>'Tis ſaid on earth that forms angelic live,</l>
                         <l>While Beauty's prize we now to Venus give:</l>
                         <l>
-                           <pb n="16" facs="tcp:018730_0090_0FA8105B037A7508"/>
+                           <pb n="16" facs="unknown:018730_0090_0FA8105B037A7508"/>
 'Tis wrong in Gods to judge unfair, you know,</l>
                         <l>What if we ſhould to wordly regions go</l>
                         <l>And be convinc'd? we then can judge with eaſe;</l>
@@ -2440,7 +2440,7 @@ To gloſs the crimes politically done,</l>
                         <l>Demanded ſilence till each fair was heard,</l>
                         <l>Or got the prize or ſuitable reward.</l>
                         <l>
-                           <pb n="17" facs="tcp:018730_0091_0FA8105B9E1E8A70"/>
+                           <pb n="17" facs="unknown:018730_0091_0FA8105B9E1E8A70"/>
 'Twas fervent ſummer pouring from the line,</l>
                         <l>And all their looks with animation ſhine;</l>
                         <l>Through light-laid garments and through veils of gauze</l>
@@ -2461,7 +2461,7 @@ To gloſs the crimes politically done,</l>
                         <l>To you, Apollo, patron of the nine,</l>
                         <l>The judge of beauty and the arts divine,</l>
                         <l>
-                           <pb n="18" facs="tcp:018730_0092_0FA8105C761F2210"/>
+                           <pb n="18" facs="unknown:018730_0092_0FA8105C761F2210"/>
 I humbly come and beg with ſuppliant mein,</l>
                         <l>That you to me the beaut'ous prize will deign:</l>
                         <l>My father's Engliſh and my mother's Dutch,</l>
@@ -2485,7 +2485,7 @@ I humbly come and beg with ſuppliant mein,</l>
                         <l>Let thoſe who cannot cultivate their charms</l>
                         <l>Die for the joys of ſome old lover's arms;</l>
                         <l>
-                           <pb n="19" facs="tcp:018730_0093_0FA8105D1D47F8C0"/>
+                           <pb n="19" facs="unknown:018730_0093_0FA8105D1D47F8C0"/>
 Make me the Queen of all the beauteous throng,</l>
                         <l>And paint eternal ſtill ſhall keep me young.</l>
                      </lg>
@@ -2510,7 +2510,7 @@ Make me the Queen of all the beauteous throng,</l>
                         <l>Leering and ogling is my greateſt forte,</l>
                         <l>And now and then a bit of ſenſual ſport—</l>
                         <l>
-                           <pb n="20" facs="tcp:018730_0094_0FA8105DDD1A16A8"/>
+                           <pb n="20" facs="unknown:018730_0094_0FA8105DDD1A16A8"/>
 Soft bleeding hearts are ſtrew'd arround my feet,</l>
                         <l>My praiſe reverberates through ev'ry ſtreet;</l>
                         <l>Kind ſwains by dozens dangle at my arm,</l>
@@ -2534,7 +2534,7 @@ Soft bleeding hearts are ſtrew'd arround my feet,</l>
                         <l>Her eyes were bright-tho' bright but for a day,</l>
                         <l>And were at beſt but highly varniſhed clay:</l>
                         <l>
-                           <pb n="21" facs="tcp:018730_0095_0FA8106041EF02A8"/>
+                           <pb n="21" facs="unknown:018730_0095_0FA8106041EF02A8"/>
 S—heard her ſentence, ſmirk'd away with eaſe,</l>
                         <l>Intent to ſtudy further arts to teaze.</l>
                      </lg>
@@ -2557,7 +2557,7 @@ S—heard her ſentence, ſmirk'd away with eaſe,</l>
                         <l>The low-cut ſtays, the French attracting ſhoe,</l>
                         <l>And yet I find that all my arts won't do.</l>
                         <l>
-                           <pb n="22" facs="tcp:018730_0096_0FA8106132AF3458"/>
+                           <pb n="22" facs="unknown:018730_0096_0FA8106132AF3458"/>
 At balls and 'ſemblies, parties and the like,</l>
                         <l>I ſhew my charms where charms are apt to ſtrike</l>
                         <l>But all in vain—the men have hearts like lead,</l>
@@ -2582,7 +2582,7 @@ At balls and 'ſemblies, parties and the like,</l>
                         <l>And then perhaps you'll fill some lovers arms.'</l>
                      </lg>
                      <lg>
-                        <pb n="23" facs="tcp:018730_0097_0FA81061A7F96600"/>
+                        <pb n="23" facs="unknown:018730_0097_0FA81061A7F96600"/>
                         <l>A maid came next that charm'd the won<g ref="char:EOLhyphen"/>d'ring throng.</l>
                         <l>But blaſting envy ſaid ſhe was not young,</l>
                         <l>" Grace in her ſteps and heaven in her eye,"</l>
@@ -2605,7 +2605,7 @@ At balls and 'ſemblies, parties and the like,</l>
                         <l>My time I paſs in aiming how to pleaſe,</l>
                         <l>And not like vixens that for ever teaze:</l>
                         <l>
-                           <pb n="24" facs="tcp:018730_0098_0FA80EFA543241F0"/>
+                           <pb n="24" facs="unknown:018730_0098_0FA80EFA543241F0"/>
 To thee I bow—O hear my fervent pray'r,</l>
                         <l>Proclaim me firſt and faireſt of the fair,</l>
                         <l>And while I live the great Apollo's name</l>
@@ -2632,7 +2632,7 @@ To thee I bow—O hear my fervent pray'r,</l>
                         <l>Each fair may learn a leſſon from the ſame,</l>
                         <l>'T will raiſe her private if not public fame.</l>
                         <l>
-                           <pb n="25" facs="tcp:018730_0099_0FA80EFB5774C2C0"/>
+                           <pb n="25" facs="unknown:018730_0099_0FA80EFB5774C2C0"/>
 Some ſighing puppies wept to kiſs my hand,</l>
                         <l>Their hearts and fortunes were at my com<g ref="char:EOLhyphen"/>mand;</l>
                         <l>Their pray'rs were earneſt, but their ſenſe was ſhallow,</l>
@@ -2656,7 +2656,7 @@ Some ſighing puppies wept to kiſs my hand,</l>
                         <l>Him I deſpis'd—His clerk ſubmiſſive bow'd,</l>
                         <l>And all his ſoul in willing tranſports vow'd;</l>
                         <l>
-                           <pb n="26" facs="tcp:018730_0100_0FA80EFBEF39E3B8"/>
+                           <pb n="26" facs="unknown:018730_0100_0FA80EFBEF39E3B8"/>
 Each day he begs me to be call'd his wife,</l>
                         <l>To taſte the pleaſure of domeſtic life—</l>
                         <l>Now, great Apollo, if in theſe a grace</l>
@@ -2683,7 +2683,7 @@ Each day he begs me to be call'd his wife,</l>
                         <l>I came, Apollo artleſs to this place,</l>
                         <l>To ſhew how nature has adorn'd my face;</l>
                         <l>
-                           <pb n="27" facs="tcp:018730_0101_0FA80EFCA385E710"/>
+                           <pb n="27" facs="unknown:018730_0101_0FA80EFCA385E710"/>
 Scarce fifteen ſummers have matur'd my frame</l>
                         <l>And ev'n now the youths reſpect my name,</l>
                         <l>I keep my charms for ſome more charming youth,</l>
@@ -2703,7 +2703,7 @@ Scarce fifteen ſummers have matur'd my frame</l>
                         <l>Miſs C—R—and P—D—was there—</l>
                         <l>And S-lly—D—n with her ſrizzl'd hair,</l>
                         <l>
-                           <pb n="28" facs="tcp:018730_0102_0FA80EFD5E936868"/>
+                           <pb n="28" facs="unknown:018730_0102_0FA80EFD5E936868"/>
 And M—y—D—with her painted face,</l>
                         <l>An K—S—without an ounce of grace:</l>
                         <l>Till evening came—Apollo from the chair</l>
@@ -2728,7 +2728,7 @@ And M—y—D—with her painted face,</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="29" facs="tcp:018730_0103_0FA80EFE34A3B158"/>
+                     <pb n="29" facs="unknown:018730_0103_0FA80EFE34A3B158"/>
                      <head>The CATASTROPHE; Or Buſtle among the Batchelors.</head>
                      <lg>
                         <l>THE news of this Aſſembly reach'd the town,</l>
@@ -2746,7 +2746,7 @@ And M—y—D—with her painted face,</l>
                         <l>Some aſked her name—when all the reſt was griev'd,</l>
                         <l>And told them lies, which they as ſoon be<g ref="char:EOLhyphen"/>lieved;</l>
                         <l>
-                           <pb n="30" facs="tcp:018730_0104_0FA80EFFDAF11458"/>
+                           <pb n="30" facs="unknown:018730_0104_0FA80EFFDAF11458"/>
 Some ſaid that Sukey B—got the prize,</l>
                         <l>And others whiſpered that was only lies,</l>
                         <l>Some ſwore that Cl-m—na R—was ſhe,</l>
@@ -2774,7 +2774,7 @@ Some ſaid that Sukey B—got the prize,</l>
                         <l>John **** with ſcarce a tooth to chew his meat,</l>
                         <l>Declar'd his mind and ſwore 'twas all a cheat</l>
                         <l>
-                           <pb n="31" facs="tcp:018730_0105_0FA80F0057D33288"/>
+                           <pb n="31" facs="unknown:018730_0105_0FA80F0057D33288"/>
 Dark were his looks and forward was his air,</l>
                         <l>And much he wonder'd at the crowd was there;</l>
                         <l>But him, he ſaid, they never ſhould deceive,</l>
@@ -2786,7 +2786,7 @@ Dark were his looks and forward was his air,</l>
                         <l>He'd cock his piſtol or produce his ſword,</l>
                         <l>And cut or ſhoot<note n="*" place="bottom">He always accounts it a moſt manly precaution to carry a brace of piſtols or a ſword about him, when on his nocturnal revels. He was heard to brag, how that he and ſome of his companions pick'd up a girl (his own phraſe) and took her to the common—(very gentleman like indeed)—that they were followed by ſome harmleſs tradeſmen, whom after ſome words of alter<g ref="char:EOLhyphen"/>cation, they ſhot and cut in a cruel manner. There were rewards offered for apprehending them, but ſome how or other Johnny eſ<g ref="char:EOLhyphen"/>caped puniſhment.</note> if they conterm'd his word,</l>
                         <l>
-                           <pb n="32" facs="tcp:018730_0106_0FA80F011A5689D8"/>
+                           <pb n="32" facs="unknown:018730_0106_0FA80F011A5689D8"/>
 But D—M—came up with Iriſh face,</l>
                         <l>And kick'd the boaſting puppy from the place.</l>
                      </lg>
@@ -2816,7 +2816,7 @@ But D—M—came up with Iriſh face,</l>
                         <l>Come let us go—there's no diverſion here,</l>
                         <l>We'll ſcour the watch and fill the town with fear.</l>
                         <l>
-                           <pb n="33" facs="tcp:018730_0107_0FA80F01CDE3FC08"/>
+                           <pb n="33" facs="unknown:018730_0107_0FA80F01CDE3FC08"/>
 Some laugh'd, ſome ſcoff'd, ſome join'd and went along,</l>
                         <l>And thus diſpers'd the woman—hunting throng.</l>
                      </lg>
@@ -2852,7 +2852,7 @@ Some laugh'd, ſome ſcoff'd, ſome join'd and went along,</l>
                      <l>Nor tyrant lords invade with horſe &amp; hounds</l>
                      <l>His native fence, to deſolate his grounds;</l>
                      <l>
-                        <pb n="34" facs="tcp:018730_0108_0FA80F0492FC88E0"/>
+                        <pb n="34" facs="unknown:018730_0108_0FA80F0492FC88E0"/>
 No pariſh prieſt with ſtrict officious care,</l>
                      <l>Tithes the ſmall ſheaf that can ſo little ſpare:</l>
                      <l>He pays no tax for miniſters to ſpend,</l>
@@ -2894,7 +2894,7 @@ No pariſh prieſt with ſtrict officious care,</l>
                         <l>But is a villain to the ſtate indeed.</l>
                      </lg>
                      <lg>
-                        <pb n="35" facs="tcp:018730_0109_0FA80F0556523008"/>
+                        <pb n="35" facs="unknown:018730_0109_0FA80F0556523008"/>
                         <l>Firſt from the people power is all receiv'd;</l>
                         <l>Therefore the people ſhould not be deceiv'd;</l>
                         <l>The man who wrongs them is his country's foe;</l>
@@ -2922,7 +2922,7 @@ No pariſh prieſt with ſtrict officious care,</l>
                      </lg>
                   </div>
                   <div type="poem">
-                     <pb n="36" facs="tcp:018730_0110_0FA80F0595675EC0"/>
+                     <pb n="36" facs="unknown:018730_0110_0FA80F0595675EC0"/>
                      <head>SIR ARTHUR<note n="*" place="bottom">Although we are but miſcellaneous bi<g ref="char:EOLhyphen"/>ographers we wiſh to be as preciſe as poſſi<g ref="char:EOLhyphen"/>ble, as to time, place and action, therefore we inform our numerous readers that this perſonage is known by the name of the fea<g ref="char:EOLhyphen"/>therbed Colonel, the Princeton hero, and laſtly Sir Arthur, from his preſumption, when he had the effrontery to preſent a pe<g ref="char:EOLhyphen"/>tition to the Aſſembly, ſimilizing himſelf to the celebrated Sir Arthur Onſlow, ſpeaker of the Britiſh houſe of commons—"but no more like him than I to Hercules"—pray<g ref="char:EOLhyphen"/>ing for a penſion in conſideration of his em<g ref="char:EOLhyphen"/>minent—What?—that is a point inexplicable, without it was for his ſingular advancements over the heads of his ſuperi<g ref="char:EOLhyphen"/>ors, through the deep inſinuations and dark perverſions of him and his colleagues, Joe R—, and John C—, who ſo early as the year 1775 or 1776 had laid their heads together to thruſt each other forward at all events, which they unluckily too well effected, for it is evident the welfare of the ſtate was never in their view. Theſe are aſſertions that have in<g ref="char:EOLhyphen"/>controvertible documents—witneſs General Cadwallader's reply, &amp;c. &amp;c.</note> The Honorable Sp—k—r.</head>
                      <lg>
                         <l>PRide and ambition, av'rice with a train,</l>
@@ -2932,7 +2932,7 @@ No pariſh prieſt with ſtrict officious care,</l>
                         <l>I now repeat from big Sir Arthur's ſtory,</l>
                         <l>In language plain, which now I lay before ye.</l>
                         <l>
-                           <pb n="37" facs="tcp:018730_0111_0FA80F064E6A6248"/>
+                           <pb n="37" facs="unknown:018730_0111_0FA80F064E6A6248"/>
 When rank ambition <gap reason="illegible: indecipherable" extent="1 letter">
                               <desc>•</desc>
                            </gap>aints the human breaſt,</l>
@@ -2950,7 +2950,7 @@ When rank ambition <gap reason="illegible: indecipherable" extent="1 letter">
                         <l>When times were hard and drooping free<g ref="char:EOLhyphen"/>dom cried</l>
                         <l>For thoſe who in her ſacred cauſe had died,</l>
                         <l>
-                           <pb n="38" facs="tcp:018730_0112_0FA80F0723AF0A50"/>
+                           <pb n="38" facs="unknown:018730_0112_0FA80F0723AF0A50"/>
 Or wak'd the patriot in the dormant ſoul,</l>
                         <l>Stirr'd to reſentment and inſpired the whole;</l>
                         <l>Faſt to her banners flocked the genial throng</l>
@@ -2980,7 +2980,7 @@ Or wak'd the patriot in the dormant ſoul,</l>
                         <l>And wanting courage too, (the ſoldiers ſoul,</l>
                         <l>The ſpring of action that conducts the whole)</l>
                         <l>
-                           <pb n="39" facs="tcp:018730_0113_0FA80F07CE93B468"/>
+                           <pb n="39" facs="unknown:018730_0113_0FA80F07CE93B468"/>
 Sir Arthur ſhines a Colonel at once;</l>
                         <l>The ſaſh and ſword adorn the ſordid dunce:</l>
                         <l>O ſacred juſtice! hear the muſe repeat</l>
@@ -3010,7 +3010,7 @@ Sir Arthur ſhines a Colonel at once;</l>
                         <l>O ſaving providence! 'twas thou inſpir'd</l>
                         <l>The wond'rous hero by the world admir'd,</l>
                         <l>
-                           <pb n="40" facs="tcp:018730_0114_0FA80F088DB0D648"/>
+                           <pb n="40" facs="unknown:018730_0114_0FA80F088DB0D648"/>
 Great Cincinnatus! ſaviour of the whole,</l>
                         <l>Thy country's patron &amp; thy country's ſoul.</l>
                      </lg>
@@ -3040,7 +3040,7 @@ Great Cincinnatus! ſaviour of the whole,</l>
                         <l>March'd retrogade, and ere the morning' light</l>
                         <l>Came within hail of noble Princeton height</l>
                         <l>
-                           <pb n="41" facs="tcp:018730_0115_0FA80F0C811F1C00"/>
+                           <pb n="41" facs="unknown:018730_0115_0FA80F0C811F1C00"/>
 The Britiſh take the deep deluſive bait,</l>
                         <l>Think they remain and for the morning wait,</l>
                         <l>Then they'd ſecure them ſnug in open day,</l>
@@ -3066,7 +3066,7 @@ The Britiſh take the deep deluſive bait,</l>
                         <l>'The army gone! impoſſible! he cries,'</l>
                         <l>Snatch'd up his cloaths and haſty rubb'd his eyes;</l>
                         <l>
-                           <pb n="42" facs="tcp:018730_0116_0FA80F0E8996A6A0"/>
+                           <pb n="42" facs="unknown:018730_0116_0FA80F0E8996A6A0"/>
 'Where are they gone?'—that was a ſecret too,</l>
                         <l>And none could tell him whether to purſue:</l>
                         <l>Bluſt'ring to Burlington the <hi>hero</hi> went,</l>
@@ -3093,7 +3093,7 @@ The Britiſh take the deep deluſive bait,</l>
                         <l>Ev'n ſo, good friend; for puniſhment will come</l>
                         <l>When no fineſſing can pervert the doom:</l>
                         <l>
-                           <pb n="43" facs="tcp:018730_0117_0FA80F0EADBEBD38"/>
+                           <pb n="43" facs="unknown:018730_0117_0FA80F0EADBEBD38"/>
 But why ſhould men of merit want the place</l>
                         <l>Which Arthur by his actions did diſgrace?</l>
                      </lg>
@@ -3121,7 +3121,7 @@ But why ſhould men of merit want the place</l>
                         <l>A queer petition fairly penn'd he brought,</l>
                         <l>By other friends of like ideas wrought;</l>
                         <l>
-                           <pb n="44" facs="tcp:018730_0118_0FA80F0F8514A8C0"/>
+                           <pb n="44" facs="unknown:018730_0118_0FA80F0F8514A8C0"/>
 Language it carri'd near to this import<note n="*" place="bottom">As the ſingularity and preſumption of this petition was likely to make a noiſe a<g ref="char:EOLhyphen"/>mong the incorruptible party who could not be reconciled to a prodigality of public mo<g ref="char:EOLhyphen"/>ney, and ſome of ſir Arthur's friends fore<g ref="char:EOLhyphen"/>ſeeing the conſequences, ſtole it out of the archives of the Aſſ—m—y; therefore we can<g ref="char:EOLhyphen"/>not be preciſe as to the wording of the pe<g ref="char:EOLhyphen"/>tition, but we are certain that the true ſpirit of it has ſuffered little from the above ver<g ref="char:EOLhyphen"/>ſion—for further information on this head we refer our readers to the Clerk of the Houſe.</note>
                         </l>
                         <l>Which real patriots turn'd to real ſport,</l>
@@ -3138,7 +3138,7 @@ Language it carri'd near to this import<note n="*" place="bottom">As the ſingul
                         <l>The ſenate then demanded my beſt ſkill,</l>
                         <l>I left the field and join'd it with good will,</l>
                         <l>
-                           <pb n="45" facs="tcp:018730_0119_0FA80F101215C2C0"/>
+                           <pb n="45" facs="unknown:018730_0119_0FA80F101215C2C0"/>
 There years on years their Sp—k—r I have been,</l>
                         <l>And many a day of whiggiſh noiſe have ſeen,</l>
                         <l>Sign'd all your bills againſt the tory crow'd,</l>
@@ -3164,7 +3164,7 @@ There years on years their Sp—k—r I have been,</l>
                         <l>Yet did the houſe with all its wiſdom make</l>
                         <l>The auction act, which merchants ſince did break,</l>
                         <l>
-                           <pb n="46" facs="tcp:018730_0120_0FA80F110E60D8E0"/>
+                           <pb n="46" facs="unknown:018730_0120_0FA80F110E60D8E0"/>
 For when their caſh or cuſtom was no ſtrong,</l>
                         <l>They ſold their goods at auction for a ſong</l>
                         <l>This law was made, a ſinecure beſtowed.</l>
@@ -3192,7 +3192,7 @@ For when their caſh or cuſtom was no ſtrong,</l>
                         <l>With ſtrong reluctance lab'ring in his heart,</l>
                         <l>And ev'ry careful little ſtriving art,</l>
                         <l>
-                           <pb n="47" facs="tcp:018730_0121_0FA80F11ECC8EB88"/>
+                           <pb n="47" facs="unknown:018730_0121_0FA80F11ECC8EB88"/>
 The 'ſembly gave his canting birth away,</l>
                         <l>And ſtopped Sir Arthur of his public pay;</l>
                         <l>
@@ -3221,7 +3221,7 @@ The 'ſembly gave his canting birth away,</l>
                         <l>They firſt declar'd they were mechanics friends,</l>
                         <l>And if the public ſhould but crown their ends,</l>
                         <l>
-                           <pb n="48" facs="tcp:018730_0122_0FA80F1272ADB1A0"/>
+                           <pb n="48" facs="unknown:018730_0122_0FA80F1272ADB1A0"/>
 They would ſupport their int'reſt to the laſt</l>
                         <l>And mend the evils which they oft' have paſt;</l>
                         <l>By this deception <hi>real patriots</hi> were</l>
@@ -3246,7 +3246,7 @@ They would ſupport their int'reſt to the laſt</l>
                         <l>Is it not laughable, as worthy blame,</l>
                         <l>To ſee a man of modern public fame,</l>
                         <l>
-                           <pb n="49" facs="tcp:018730_0123_0FA80F1334AA1610"/>
+                           <pb n="49" facs="unknown:018730_0123_0FA80F1334AA1610"/>
 Put on a face of moral ſeeming guiſe,</l>
                         <l>And yet its principles in full deſpiſe?—</l>
                         <l>But nothing now is half ſo common here,</l>
@@ -3264,7 +3264,7 @@ Put on a face of moral ſeeming guiſe,</l>
                         <l>Dreſt in the weeds<note n="*" place="bottom">We think it the grandeſt piece of hy<g ref="char:EOLhyphen"/>pocriſy, that we have yet met with in our reſearches through the female world, Miſs Kitty's wearing mourning for the deceaſed w—fe of the man who <hi>thinks</hi> he keeps her. There was a picture publiſhed ſome time ago in London called the <hi>Public Ledger</hi>—what is Kitty?—This anecdote we have had from a very reputable gentleman eminent in the world of gallantry.</note> which holy friendſhip wears,</l>
                         <l>And not for doxy's full of wanton airs,</l>
                         <l>
-                           <pb n="50" facs="tcp:018730_0124_0FA80F13E7E760B8"/>
+                           <pb n="50" facs="unknown:018730_0124_0FA80F13E7E760B8"/>
 John pays her daily viſits at her place,</l>
                         <l>In Cherry-alley, to his own diſgrace.</l>
                      </lg>
@@ -3285,7 +3285,7 @@ John pays her daily viſits at her place,</l>
                         <l>This noble trio then decreed to form</l>
                         <l>The daring youth that Stony-point ſhould ſtorm,</l>
                         <l>
-                           <pb n="51" facs="tcp:018730_0125_0FA80F14A8AEC798"/>
+                           <pb n="51" facs="unknown:018730_0125_0FA80F14A8AEC798"/>
 (For revolutions, and each nation's riſe,</l>
                         <l>Both paſt and future, gods have in their eyeſ)</l>
                      </lg>
@@ -3313,7 +3313,7 @@ John pays her daily viſits at her place,</l>
                         <l>Subdu'd the Briton, ſpread his conqueſt o'er</l>
                         <l>Where human empire ne'er had liv'd before.</l>
                         <l>
-                           <pb n="52" facs="tcp:018730_0126_0FA80F154FE050D8"/>
+                           <pb n="52" facs="unknown:018730_0126_0FA80F154FE050D8"/>
 Then daring Hannibal the god diſclos'd,</l>
                         <l>That gather'd ſtrength as danger interpos'd;</l>
                         <l>That led his armies o'er the Alpine hills,</l>
@@ -3345,7 +3345,7 @@ Then daring Hannibal the god diſclos'd,</l>
                         <l>Retires to taſte the rights his ſword has gain'd</l>
                         <l>Thoſe rights are firmly by him ſtill main<g ref="char:EOLhyphen"/>tain'd;</l>
                         <l>
-                           <pb n="53" facs="tcp:018730_0127_0FA80F170F5E3440"/>
+                           <pb n="53" facs="unknown:018730_0127_0FA80F170F5E3440"/>
 He pleads with firmneſs for his country's cauſe,</l>
                         <l>And in the ſenate vindicates her laws.</l>
                      </lg>
@@ -3369,7 +3369,7 @@ He pleads with firmneſs for his country's cauſe,</l>
                         <l>Whene'er the theme demands his patriot tongue,</l>
                         <l>Reſpect is ſeen the liſt'ning croud among.</l>
                         <l>
-                           <pb n="54" facs="tcp:018730_0128_0FA80F17B26C5EF8"/>
+                           <pb n="54" facs="unknown:018730_0128_0FA80F17B26C5EF8"/>
 Smooth are his periods, grand the glowing thought,</l>
                         <l>Bright the conception with conviction fraught;</l>
                         <l>Well pleas'd the ſenate lends a ſtudious ear,</l>
@@ -3395,7 +3395,7 @@ Smooth are his periods, grand the glowing thought,</l>
                         <l>Feel all the force ſuperior merit fires,</l>
                         <l>Awake to virtue with its bright deſires;</l>
                         <l>
-                           <pb n="55" facs="tcp:018730_0129_0FA80F1859497ED8"/>
+                           <pb n="55" facs="unknown:018730_0129_0FA80F1859497ED8"/>
 While the rapt ſpirit counts his actions o'er,</l>
                         <l>And gives a plaudit quite unknown before,</l>
                         <l>Wrought in the ſong immortal as the ſun,</l>
@@ -3416,7 +3416,7 @@ While the rapt ſpirit counts his actions o'er,</l>
                         <l>They underſtand that he muſt borrow ſoon,</l>
                         <l>For which thoſe leeches take a <hi>trifling</hi> boon,</l>
                         <l>
-                           <pb n="56" facs="tcp:018730_0130_0FA80F1B8C6EF3F0"/>
+                           <pb n="56" facs="unknown:018730_0130_0FA80F1B8C6EF3F0"/>
 Fifty per cent, or ſo, if times are hard,</l>
                         <l>They only aſk as ſuitable reward;</l>
                         <l>Or if the borrowing party be in debt,</l>
@@ -3446,7 +3446,7 @@ Fifty per cent, or ſo, if times are hard,</l>
                         <l>Or tell his ſtrong neceſſity and want,</l>
                         <l>Thoſe hardened miſers would his ſufferings taunt,</l>
                         <l>
-                           <pb n="57" facs="tcp:018730_0131_0FA80F1C99033A90"/>
+                           <pb n="57" facs="unknown:018730_0131_0FA80F1C99033A90"/>
 Laugh at the hardſhips which he could not miſs,</l>
                         <l>And pining virtue brand with envy's hiſs.</l>
                         <l>Had heav'n no thunder for ſuch men de<g ref="char:EOLhyphen"/>ſign'd,</l>
@@ -3468,7 +3468,7 @@ Laugh at the hardſhips which he could not miſs,</l>
                      <l>Then through the Britiſh lines our hero paſt</l>
                      <l>To Philadelphia ſafely came at laſt:</l>
                      <l>
-                        <pb n="58" facs="tcp:018730_0132_0FA80F1CE0E11D40"/>
+                        <pb n="58" facs="unknown:018730_0132_0FA80F1CE0E11D40"/>
 He lately held an office in this ſtate,</l>
                      <l>And rais'd diſturbance in a late debate.</l>
                      <l>He made his fortune by a wond'rous wife,</l>
@@ -3494,7 +3494,7 @@ He lately held an office in this ſtate,</l>
                      <l>While he as conſtant ſays the world is born</l>
                      <l>Away with faſhions, and by folly torn</l>
                      <l>
-                        <pb n="59" facs="tcp:018730_0133_0FA80F1D9FFE71E8"/>
+                        <pb n="59" facs="unknown:018730_0133_0FA80F1D9FFE71E8"/>
 While wicked men to wicked precepts run,</l>
                      <l>'Some to undo and ſome to be undone.'</l>
                      <l>Now, who would think, altho' 'tis doubt<g ref="char:EOLhyphen"/>leſs truth,</l>
@@ -3524,7 +3524,7 @@ While wicked men to wicked precepts run,</l>
                   <trailer>End of the Second Volume.</trailer>
                </div>
                <div type="note">
-                  <pb facs="tcp:018730_0134_0FA80F1E517E5CF0"/>
+                  <pb facs="unknown:018730_0134_0FA80F1E517E5CF0"/>
                   <p>Since this volume went to preſs we have had ſeveral ſolicitations, both perſonal and by proxy, for a nich in the PHILADEL<g ref="char:EOLhyphen"/>PHIAD; whoſe favors we have been obliged to poſtpone to our next publication.</p>
                </div>
             </body>
